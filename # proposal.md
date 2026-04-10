@@ -11,8 +11,7 @@
 
 ### Repositorios
 
-* [frontend app](http://hyperlinktogihuborgitlab/)  
-* [backend app](http://hyperlinktogihuborgitlab/) Nota: si utiliza un monorepo indicar un solo link con fullstack app.
+* [Front] (https://github.com/celealbuerne/Frontend-app)
 
 ## Tema
 
